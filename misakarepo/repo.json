@@ -1,0 +1,46 @@
+{
+    "RepositoryName": "ShinyMewsRepo",
+    "RepositoryDescription": "Just a few tweaks me and HackZy made. Special thanks to Hackzy for helping me out with the tweaks and website.",
+    "RepositoryAuthor": "ShinyMew",
+    "RepositoryIcon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/icon.png",
+    "RepositoryWebsite": "http://mewswebsite.ourfgames.com",
+    "Default":{
+        "HeaderImage": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/header.png",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Tetris Legal Notice",
+            "Description": "Tetriminos in your Settings!",
+            "Category": "Games",
+            "Caption": "Replaces the Legal Notice entry in the settings with Tetris",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "ShinyMew",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://github.com/lushaosalt/"
+                    },
+                    {
+                        "Label": "SoundCloud",
+                        "Link": "https://soundcloud.com/lushaoonyt"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/com.mew.tetris.misaka",
+                    "Description": "1st Relase, woohoo!"
+                }
+            ],
+            "PackageID": "com.mew.tetris"
+        }
+    ]
+}
