@@ -1,1 +1,42 @@
-
+{
+    "RepositoryName": "",
+    "RepositoryDescription": "",
+    "RepositoryAuthor": "ShinyMew",
+    "RepositoryIcon": "",
+    "RepositoryWebsite": "",
+    "Default":{
+        "HeaderImage": "",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Tetris Legal Notice",
+            "Description": "The Easter Egg you wished your iPhone had",
+            "Category": "Games",
+            "Caption": "Replaces the Legal Notice entry in the settings with Tetris",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "ShinyMew",
+                "Links": [
+                    {
+                        "Label": "ShinyMew",
+                        "Link": ""
+                    }
+                ]
+            },
+            "Icon": "",
+            "Screenshot": [
+            ""
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.mew.tetris"
+        }
+    ]
+}
