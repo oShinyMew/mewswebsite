@@ -1,11 +1,11 @@
 {
-    "RepositoryName": "",
-    "RepositoryDescription": "",
+    "RepositoryName": "ShinyMewsRepo",
+    "RepositoryDescription": "just a few tweaks me and HackZy made. Special thanks to Hackzy for helping me out with the tweaks and website.",
     "RepositoryAuthor": "ShinyMew",
-    "RepositoryIcon": "",
-    "RepositoryWebsite": "",
+    "RepositoryIcon": "https://avatarfiles.alphacoders.com/262/thumb-262588.png",
+    "RepositoryWebsite": "http://mewswebsite.ourfgames.com",
     "Default":{
-        "HeaderImage": "",
+        "HeaderImage": "https://i.redd.it/rybkhqztojl41.jpg",
         "ViewCount": true
     },
     "RepositoryContents": [
@@ -21,18 +21,18 @@
                 "Links": [
                     {
                         "Label": "ShinyMew",
-                        "Link": ""
+                        "Link": "https://github.com/lushaosalt/mewswebsite/blob/main/misakatweaks/com.mew.tetris.misaka"
                     }
                 ]
             },
-            "Icon": "",
+            "Icon": "https://freehtml5games.org/icons/tetris-cube.png",
             "Screenshot": [
             ""
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "",
+                    "Package": "https://github.com/lushaosalt/mewswebsite/blob/main/misakatweaks/com.mew.tetris.misaka",
                     "Description": ""
                 }
             ],
