@@ -1,17 +1,17 @@
 {
     "RepositoryName": "ShinyMewsRepo",
-    "RepositoryDescription": "just a few tweaks me and HackZy made. Special thanks to Hackzy for helping me out with the tweaks and website.",
+    "RepositoryDescription": "Just a few tweaks me and HackZy made. Special thanks to Hackzy for helping me out with the tweaks and website.",
     "RepositoryAuthor": "ShinyMew",
-    "RepositoryIcon": "https://avatarfiles.alphacoders.com/262/thumb-262588.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/icon.png",
     "RepositoryWebsite": "http://mewswebsite.ourfgames.com",
     "Default":{
-        "HeaderImage": "https://i.redd.it/rybkhqztojl41.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/header.png",
         "ViewCount": true
     },
     "RepositoryContents": [
         {
             "Name": "Tetris Legal Notice",
-            "Description": "The Easter Egg you wished your iPhone had",
+            "Description": "Tetriminos in your Settings!",
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with Tetris",
             "MinIOSVersion": "15.0",
@@ -20,20 +20,24 @@
                 "Label": "ShinyMew",
                 "Links": [
                     {
-                        "Label": "ShinyMew",
-                        "Link": "https://github.com/lushaosalt/mewswebsite/blob/main/misakatweaks/com.mew.tetris.misaka"
+                        "Label": "GitHub",
+                        "Link": "https://github.com/lushaosalt/"
+                    },
+                    {
+                        "Label": "SoundCloud",
+                        "Link": "https://soundcloud.com/lushaoonyt"
                     }
                 ]
             },
-            "Icon": "https://freehtml5games.org/icons/tetris-cube.png",
+            "Icon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/icon.png",
             "Screenshot": [
-            ""
+            "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/Screenshot.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/lushaosalt/mewswebsite/blob/main/misakatweaks/com.mew.tetris.misaka",
-                    "Description": ""
+                    "Package": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/com.mew.tetris.misaka",
+                    "Description": "1st Relase, woohoo!"
                 }
             ],
             "PackageID": "com.mew.tetris"
